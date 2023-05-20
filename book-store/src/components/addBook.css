@@ -1,0 +1,22 @@
+.addBook {
+  flex: 4;
+  }
+.addAbout {
+
+flex: 4;
+
+}
+.row {
+display: flex;
+  flex:4;
+  
+}
+
+.column {
+flex: 50%;
+}
+.column1 {
+flex: 50%;
+padding-top: 17px;
+padding-bottom: 110px;
+}

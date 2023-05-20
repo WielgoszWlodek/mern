@@ -1,0 +1,23 @@
+.addUser {
+    flex: 4;
+    }
+.addAbout {
+  
+  flex: 4;
+ 
+}
+
+.addAbout1 {
+  
+  flex: 4;
+  display: flex;
+  justify-content: center;
+  margin-top: -260px;
+  flex-direction: column;
+  max-width: 600px;
+
+margin-left: 70px;
+margin-right: auto ;
+
+}
+
